@@ -1,0 +1,17 @@
+/*
+ * ResolutionCSS - Responsive Design Framework
+ * http://www.resolutioncss.com
+ *
+ * Copyright 2013 Steven Hutson
+ * Licensed under the Apache 2.0 License.
+ *
+ */
+
+// Setting and Colors
+@import "_config";
+
+// Site CSS for initial version.
+body { font-family: Sans-Serif; background: #fff; font-size: 12pt; }
+h1 { font-size: 32px; }
+#container { width: 60%; margin: 0 auto; min-width: 300px; }
+.copyright { margin-top: 50px; font-size: 12px; }

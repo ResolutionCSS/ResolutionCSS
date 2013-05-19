@@ -1,0 +1,7 @@
+{
+	"name" : "ResolutionCSS",
+	"version" : "0.0.0",
+	"dependencies" : {
+		"connect" : "*"
+	} 
+}

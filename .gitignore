@@ -1,0 +1,14 @@
+# Project specific folders
+build
+node_modules
+.sass-cache
+
+# Main CSS file should not be included
+src/css/resolution.css
+src/css/resolution.css.map
+
+# OS Specific Junk
+Thumbs.db
+.DS_Store
+._*
+
