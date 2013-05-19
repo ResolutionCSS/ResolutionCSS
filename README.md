@@ -31,6 +31,7 @@ For developer convenience scripts have been included in the project bin director
 
 **web-server** - Start up a Node.js based web server pointing to the project src directory listening on port 8000. This provides easy browser access to the compiled project CSS and HTML.
 
+**dev-launch** - Start up both sass-watch and web-server tools in the background. Requires GNU Screen isntalled on your development environment. 
 
 ## Authors
 
